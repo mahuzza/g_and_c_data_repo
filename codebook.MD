@@ -111,4 +111,5 @@ The variables in the *means.csv* file are given as follows:
 [63] "Average of fBodyGyro-std()-Z"           "Average of fBodyAccMag-std()"          
 [65] "Average of fBodyBodyAccJerkMag-std()"   "Average of fBodyBodyGyroMag-std()"     
 [67] "Average of fBodyBodyGyroJerkMag-std()" 
+
 ```
